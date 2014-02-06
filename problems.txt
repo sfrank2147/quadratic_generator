@@ -1,0 +1,31 @@
+1) x^2 + 3x - 4
+2) x^2 - 15x + 54
+3) x^2 - 13x + 40
+4) x^2 + 10x + 21
+5) x^2 - 14x + 49
+6) x^2 - 64
+7) x^2 - 9x + 14
+8) x^2 + 4x - 45
+9) x^2 + 3x - 54
+10) x^2 + 2x - 24
+11) 9x^2 - 90x + 225
+12) 3x^2 - 12x + 9
+13) 6x^2 + 42x + 72
+14) 8x^2 - 8x - 16
+15) 3x^2 - 48x + 192
+
+Solution to 1: x = 4 or x = -1
+Solution to 2: x = -6 or x = -9
+Solution to 3: x = -5 or x = -8
+Solution to 4: x = 7 or x = 3
+Solution to 5: x = -7 or x = -7
+Solution to 6: x = 8 or x = -8
+Solution to 7: x = -7 or x = -2
+Solution to 8: x = -5 or x = 9
+Solution to 9: x = 9 or x = -6
+Solution to 10: x = 6 or x = -4
+Solution to 11: x = -5 or x = -5
+Solution to 12: x = -3 or x = -1
+Solution to 13: x = 4 or x = 3
+Solution to 14: x = -2 or x = 1
+Solution to 15: x = -8 or x = -8

@@ -25,13 +25,13 @@ def format_quadratic(a,b,c):
     if c == 0:
         c_term = ''
     elif c == -1:
-        c_term = '- x'
+        c_term = '- 1'
     elif c < 0:
-        c_term = '- {0}x'.format(-c)
+        c_term = '- {0}'.format(-c)
     elif c == 1:
-        c_term = '+ x'
+        c_term = '+ 1'
     else:
-        c_term = '+ {0}x'.format(c)
+        c_term = '+ {0}'.format(c)
     quadratic = ' '.join([a_term, b_term, c_term])
     quadratic = re.sub(' +', ' ', quadratic)
     return quadratic
